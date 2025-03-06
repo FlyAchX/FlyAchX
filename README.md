@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlyAchX
-- 👀 I’m interested in Coding, Learning new languages, Traveling the world
-- 🌱 I’m currently learning c#
+- 👀 I’m interested in Coding, Learning new languages, Game Developing
+- 🌱 I’m currently learning Game Developing, HTML, CSS, Javascript
 - 📫 How to reach me discord: flyachx_
 
 <!---
